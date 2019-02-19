@@ -12,7 +12,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/android_cestitka" />
+        app:srcCompat="@drawable/android_cestitka"
+        android:onClick="pozdrav"/>
 
     <TextView
         android:layout_width="match_parent"
